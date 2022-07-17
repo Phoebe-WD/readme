@@ -13,7 +13,7 @@
 
 ### Connect with me 👇
 
-[![Linkedin](https://imgur.com/lTYnnv7.png)](https://www.linkedin.com/in/phoebe-wilckens/) [![Behance](https://imgur.com/yXR0pIy.png)](https://www.behance.net/phoebewilckens) [![Instagram](https://imgur.com/sqsE252.png)](https://www.instagram.com/shicaap/) [![Twitter](https://imgur.com/SKRlEyA.png)](https://twitter.com/shicaap)
+[![Linkedin](https://imgur.com/lTYnnv7.png)](https://www.linkedin.com/in/phoebe-wilckens/) [![Instagram](https://imgur.com/sqsE252.png)](https://www.instagram.com/shicaacodes/) [![Twitter](https://imgur.com/SKRlEyA.png)](https://twitter.com/shicaap)
 
 ### Languages and tools 👩‍💻
 
